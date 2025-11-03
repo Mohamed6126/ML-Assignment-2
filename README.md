@@ -97,3 +97,17 @@ pip install torch torchvision matplotlib numpy scikit-learn
 
 python Neural_Network.ipynb
 python logistic.ipynb
+
+
+
+## 👥 Contributors
+
+We would like to thank the following contributors for their valuable efforts and contributions to this project:
+
+| Name | GitHub / Profile |
+|------|------------------|
+| **Yousef Nabil** | [@Yousef-nabil](https://github.com/Yousef-nabil) |
+| **Mohamed Hossam** | [@Mohamed6126](https://github.com/Mohamed6126) |
+| **Ahmed Aboelwafa** | [@Aboelwafa1911](https://github.com/Aboelwafa1911) |
+
+
