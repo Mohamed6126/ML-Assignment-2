@@ -84,9 +84,11 @@ Adding **Dropout layers** improved generalization by reducing overfitting, espec
 
 ---
 
+**You can see the full details (complexity analysis, hyperparameter tuning, running time, and visualizations) in the provided Jupyter notebook.**
+
+
 ## ⚙️ Installation & Usage
 
-### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Mohamed6126/ML-Assignment-2
 cd ML-Assignment-2
